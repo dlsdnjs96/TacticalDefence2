@@ -1,0 +1,69 @@
+
+end_203903.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill0001
+  rotate: false
+  xy: 828, 894
+  size: 106, 40
+  orig: 106, 40
+  offset: 0, 0
+  index: -1
+skill0002
+  rotate: false
+  xy: 2, 567
+  size: 216, 182
+  orig: 216, 182
+  offset: 0, 0
+  index: -1
+skill0003
+  rotate: false
+  xy: 222, 752
+  size: 216, 182
+  orig: 216, 182
+  offset: 0, 0
+  index: -1
+skill0004
+  rotate: false
+  xy: 2, 383
+  size: 216, 182
+  orig: 216, 182
+  offset: 0, 0
+  index: -1
+skill0005
+  rotate: false
+  xy: 440, 752
+  size: 216, 182
+  orig: 216, 182
+  offset: 0, 0
+  index: -1
+skill0006
+  rotate: false
+  xy: 2, 199
+  size: 216, 182
+  orig: 216, 182
+  offset: 0, 0
+  index: -1
+skill0007
+  rotate: false
+  xy: 2, 751
+  size: 218, 183
+  orig: 218, 183
+  offset: 0, 0
+  index: -1
+skill0008
+  rotate: false
+  xy: 2, 35
+  size: 165, 162
+  orig: 165, 162
+  offset: 0, 0
+  index: -1
+skill0009
+  rotate: false
+  xy: 658, 773
+  size: 168, 161
+  orig: 168, 161
+  offset: 0, 0
+  index: -1

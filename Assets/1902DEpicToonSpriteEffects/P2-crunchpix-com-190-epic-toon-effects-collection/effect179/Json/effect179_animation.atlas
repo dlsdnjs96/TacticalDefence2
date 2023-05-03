@@ -1,0 +1,27 @@
+
+skill190001.png
+size: 183,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+019sk
+  rotate: true
+  xy: 1, 17
+  size: 98, 97
+  orig: 100, 100
+  offset: 1, 2
+  index: -1
+019sk_1
+  rotate: false
+  xy: 99, 30
+  size: 83, 85
+  orig: 100, 100
+  offset: 9, 7
+  index: -1
+019sk_2
+  rotate: false
+  xy: 99, 1
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1

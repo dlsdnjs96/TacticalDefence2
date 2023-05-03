@@ -1,0 +1,48 @@
+{
+"skeleton": { "hash": "M0fsOOJSmK8bGra1KUjCsjmjL9E", "spine": "2.1.27", "width": 400, "height": 300 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "sanlei_00005", "bone": "root", "attachment": "sanlei_00007", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"sanlei_00005": {
+			"sanlei_00005": { "x": 151.5, "y": -0.99, "rotation": 90, "width": 300, "height": 400 },
+			"sanlei_00006": { "x": 151.5, "y": -0.99, "rotation": 90, "width": 300, "height": 400 },
+			"sanlei_00007": { "x": 151.5, "y": -0.99, "rotation": 90, "width": 300, "height": 400 }
+		}
+	}
+},
+"animations": {
+	"mv": {
+		"slots": {
+			"sanlei_00005": {
+				"attachment": [
+					{ "time": 0, "name": "sanlei_00005" },
+					{ "time": 0.0666, "name": "sanlei_00006" },
+					{ "time": 0.1333, "name": "sanlei_00007" },
+					{ "time": 0.2, "name": "sanlei_00005" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.2, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

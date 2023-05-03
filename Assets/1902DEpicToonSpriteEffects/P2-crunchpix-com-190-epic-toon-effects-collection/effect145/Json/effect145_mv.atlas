@@ -1,0 +1,48 @@
+
+crit190003.png
+size: 486,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1903fsk2
+  rotate: false
+  xy: 429, 89
+  size: 55, 53
+  orig: 56, 56
+  offset: 1, 2
+  index: -1
+1903s10001
+  rotate: false
+  xy: 315, 6
+  size: 58, 136
+  orig: 70, 140
+  offset: 5, 2
+  index: -1
+1903s10002
+  rotate: false
+  xy: 375, 16
+  size: 52, 126
+  orig: 70, 140
+  offset: 12, 5
+  index: -1
+1903s10003
+  rotate: false
+  xy: 248, 6
+  size: 65, 136
+  orig: 70, 140
+  offset: 5, 0
+  index: -1
+1903s1000325
+  rotate: true
+  xy: 2, 2
+  size: 140, 145
+  orig: 140, 145
+  offset: 0, 0
+  index: -1
+1903s10004
+  rotate: false
+  xy: 149, 35
+  size: 97, 107
+  orig: 105, 121
+  offset: 5, 8
+  index: -1

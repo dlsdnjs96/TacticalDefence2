@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+{
+  "wAtk": 1.0,
+  "mAtk": 2.0,
+  "atkSpeed": 3.0,
+  "atkRange": 4.0,
+  "criProb": 5.0,
+  "criDamage": 6.0,
+  "maxHp": 0.0,
+  "defensive": 0.0,
+  "coolTimeReduction": 0.0,
+  "physicalLifeSteal": 0.0,
+  "magicalLifeSteal": 0.0,
+  "damageReduction": 0.0,
+  "totalDamage": 0.0,
+  "physicalDamage": 0.0,
+  "magicalDamage": 0.0,
+  "dodgeProb": 0.0
+=======
+{
+  "wAtk": 1.0,
+  "mAtk": 2.0,
+  "atkSpeed": 3.0,
+  "atkRange": 4.0,
+  "criProb": 5.0,
+  "criDamage": 6.0,
+  "maxHp": 0.0,
+  "defensive": 0.0,
+  "coolTimeReduction": 0.0,
+  "physicalLifeSteal": 0.0,
+  "magicalLifeSteal": 0.0,
+  "damageReduction": 0.0,
+  "totalDamage": 0.0,
+  "physicalDamage": 0.0,
+  "magicalDamage": 0.0,
+  "dodgeProb": 0.0
+>>>>>>> e8c52d9063612481c9273d74bbf745c2d3765002
+}

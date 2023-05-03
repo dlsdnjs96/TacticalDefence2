@@ -1,0 +1,48 @@
+
+8020.png
+size: 496,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 372, 104
+  size: 27, 99
+  orig: 27, 115
+  offset: 0, 8
+  index: -1
+4_00000
+  rotate: false
+  xy: 372, 104
+  size: 27, 99
+  orig: 27, 115
+  offset: 0, 8
+  index: -1
+1_00000
+  rotate: false
+  xy: 2, 14
+  size: 199, 99
+  orig: 230, 115
+  offset: 14, 0
+  index: -1
+2
+  rotate: false
+  xy: 305, 205
+  size: 189, 207
+  orig: 189, 207
+  offset: 0, 0
+  index: -1
+2_00000
+  rotate: false
+  xy: 305, 2
+  size: 65, 201
+  orig: 115, 230
+  offset: 25, 22
+  index: -1
+3_00042
+  rotate: false
+  xy: 2, 115
+  size: 301, 297
+  orig: 301, 297
+  offset: 0, 0
+  index: -1

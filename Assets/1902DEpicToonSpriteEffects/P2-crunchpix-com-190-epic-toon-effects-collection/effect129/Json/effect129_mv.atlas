@@ -1,0 +1,41 @@
+
+b190002.png
+size: 618,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1902-9
+  rotate: true
+  xy: 362, 1
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+images/1902-15
+  rotate: true
+  xy: 362, 1
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+images/1902-cc0001
+  rotate: false
+  xy: 1, 37
+  size: 167, 267
+  orig: 280, 320
+  offset: 61, 0
+  index: -1
+images/1902-cc0002
+  rotate: false
+  xy: 169, 40
+  size: 192, 264
+  orig: 280, 320
+  offset: 46, 9
+  index: -1
+images/1902-cc0003
+  rotate: false
+  xy: 362, 76
+  size: 255, 228
+  orig: 280, 320
+  offset: 13, 61
+  index: -1

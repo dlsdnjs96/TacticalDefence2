@@ -1,0 +1,76 @@
+
+gexplore.png
+size: 642,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill-b (1)
+  rotate: false
+  xy: 539, 158
+  size: 87, 89
+  orig: 994, 620
+  offset: 442, 255
+  index: -1
+skill-b (10)
+  rotate: true
+  xy: 405, 128
+  size: 119, 132
+  orig: 994, 620
+  offset: 428, 228
+  index: -1
+skill-b (2)
+  rotate: false
+  xy: 522, 8
+  size: 118, 118
+  orig: 994, 620
+  offset: 428, 238
+  index: -1
+skill-b (3)
+  rotate: false
+  xy: 132, 2
+  size: 124, 123
+  orig: 994, 620
+  offset: 425, 236
+  index: -1
+skill-b (4)
+  rotate: false
+  xy: 2, 119
+  size: 128, 128
+  orig: 994, 620
+  offset: 423, 233
+  index: -1
+skill-b (5)
+  rotate: false
+  xy: 258, 4
+  size: 129, 121
+  orig: 994, 620
+  offset: 425, 238
+  index: -1
+skill-b (6)
+  rotate: false
+  xy: 132, 127
+  size: 136, 120
+  orig: 994, 620
+  offset: 421, 235
+  index: -1
+skill-b (7)
+  rotate: true
+  xy: 2, 3
+  size: 114, 128
+  orig: 994, 620
+  offset: 431, 231
+  index: -1
+skill-b (8)
+  rotate: true
+  xy: 389, 10
+  size: 116, 131
+  orig: 994, 620
+  offset: 430, 229
+  index: -1
+skill-b (9)
+  rotate: true
+  xy: 270, 128
+  size: 119, 133
+  orig: 994, 620
+  offset: 428, 228
+  index: -1

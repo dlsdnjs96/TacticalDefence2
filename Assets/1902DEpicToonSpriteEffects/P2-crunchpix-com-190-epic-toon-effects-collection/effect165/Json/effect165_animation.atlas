@@ -1,0 +1,111 @@
+
+lord_soil_07.png
+size: 986,931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk2 (1)
+  rotate: false
+  xy: 2, 2
+  size: 124, 186
+  orig: 922, 576
+  offset: 339, 382
+  index: -1
+atk2 (10)
+  rotate: false
+  xy: 2, 553
+  size: 264, 376
+  orig: 922, 576
+  offset: 453, 0
+  index: -1
+atk2 (11)
+  rotate: true
+  xy: 775, 355
+  size: 269, 204
+  orig: 922, 576
+  offset: 453, 0
+  index: -1
+atk2 (12)
+  rotate: true
+  xy: 780, 626
+  size: 303, 204
+  orig: 922, 576
+  offset: 451, 0
+  index: -1
+atk2 (13)
+  rotate: true
+  xy: 455, 5
+  size: 295, 200
+  orig: 922, 576
+  offset: 441, 0
+  index: -1
+atk2 (14)
+  rotate: false
+  xy: 128, 9
+  size: 325, 179
+  orig: 922, 576
+  offset: 419, 0
+  index: -1
+atk2 (15)
+  rotate: true
+  xy: 268, 619
+  size: 310, 176
+  orig: 922, 576
+  offset: 436, 0
+  index: -1
+atk2 (17)
+  rotate: false
+  xy: 455, 302
+  size: 313, 147
+  orig: 922, 576
+  offset: 434, 0
+  index: -1
+atk2 (2)
+  rotate: false
+  xy: 805, 85
+  size: 145, 268
+  orig: 922, 576
+  offset: 355, 302
+  index: -1
+atk2 (3)
+  rotate: false
+  xy: 268, 333
+  size: 151, 284
+  orig: 922, 576
+  offset: 379, 245
+  index: -1
+atk2 (4)
+  rotate: true
+  xy: 455, 610
+  size: 154, 318
+  orig: 922, 576
+  offset: 407, 185
+  index: -1
+atk2 (5)
+  rotate: false
+  xy: 657, 7
+  size: 146, 293
+  orig: 922, 576
+  offset: 441, 118
+  index: -1
+atk2 (6)
+  rotate: true
+  xy: 455, 451
+  size: 157, 317
+  orig: 922, 576
+  offset: 459, 58
+  index: -1
+atk2 (7)
+  rotate: true
+  xy: 455, 766
+  size: 163, 323
+  orig: 922, 576
+  offset: 462, 65
+  index: -1
+atk2 (9)
+  rotate: false
+  xy: 2, 190
+  size: 264, 361
+  orig: 922, 576
+  offset: 453, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+b100006.png
+size: 625,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk-ljf (1)
+  rotate: false
+  xy: 1, 118
+  size: 133, 130
+  orig: 1152, 720
+  offset: 289, 215
+  index: -1
+atk-ljf (2)
+  rotate: false
+  xy: 270, 124
+  size: 135, 124
+  orig: 1152, 720
+  offset: 288, 213
+  index: -1
+atk-ljf (3)
+  rotate: false
+  xy: 406, 122
+  size: 131, 126
+  orig: 1152, 720
+  offset: 289, 213
+  index: -1
+atk-ljf (4)
+  rotate: true
+  xy: 135, 120
+  size: 128, 134
+  orig: 1152, 720
+  offset: 291, 213
+  index: -1
+atk-ljf (5)
+  rotate: true
+  xy: 270, 3
+  size: 120, 122
+  orig: 1152, 720
+  offset: 296, 215
+  index: -1
+atk-ljf (6)
+  rotate: true
+  xy: 393, 9
+  size: 112, 120
+  orig: 1152, 720
+  offset: 301, 217
+  index: -1
+atk-ljf (7)
+  rotate: true
+  xy: 514, 8
+  size: 113, 110
+  orig: 1152, 720
+  offset: 302, 217
+  index: -1
+atk-ljf (8)
+  rotate: true
+  xy: 125, 1
+  size: 116, 114
+  orig: 1152, 720
+  offset: 302, 218
+  index: -1
+atk-ljf (9)
+  rotate: true
+  xy: 1, 2
+  size: 115, 123
+  orig: 1152, 720
+  offset: 304, 216
+  index: -1

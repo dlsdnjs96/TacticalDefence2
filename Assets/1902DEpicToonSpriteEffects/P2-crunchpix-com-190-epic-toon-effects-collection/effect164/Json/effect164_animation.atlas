@@ -1,0 +1,62 @@
+
+lord_fire_01.png
+size: 898,431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heilong-baokai (1)
+  rotate: false
+  xy: 675, 59
+  size: 161, 161
+  orig: 231, 226
+  offset: 45, 34
+  index: -1
+heilong-baokai (2)
+  rotate: true
+  xy: 2, 2
+  size: 201, 202
+  orig: 231, 226
+  offset: 20, 12
+  index: -1
+heilong-baokai (3)
+  rotate: true
+  xy: 673, 222
+  size: 207, 223
+  orig: 231, 226
+  offset: 10, 0
+  index: -1
+heilong-baokai (4)
+  rotate: true
+  xy: 450, 217
+  size: 212, 221
+  orig: 231, 226
+  offset: 9, 0
+  index: -1
+heilong-baokai (5)
+  rotate: false
+  xy: 230, 210
+  size: 218, 219
+  orig: 231, 226
+  offset: 9, 3
+  index: -1
+heilong-baokai (6)
+  rotate: false
+  xy: 2, 205
+  size: 226, 224
+  orig: 231, 226
+  offset: 5, 2
+  index: -1
+heilong-baokai (7)
+  rotate: false
+  xy: 450, 8
+  size: 223, 207
+  orig: 231, 226
+  offset: 5, 14
+  index: -1
+heilong-baokai (8)
+  rotate: false
+  xy: 206, 30
+  size: 227, 173
+  orig: 231, 226
+  offset: 0, 29
+  index: -1

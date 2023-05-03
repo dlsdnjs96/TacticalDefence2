@@ -1,0 +1,62 @@
+
+skill110002.png
+size: 725,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill110002 (1)
+  rotate: false
+  xy: 326, 16
+  size: 250, 140
+  orig: 337, 154
+  offset: 24, 8
+  index: -1
+skill110002 (2)
+  rotate: false
+  xy: 334, 158
+  size: 320, 154
+  orig: 337, 154
+  offset: 4, 0
+  index: -1
+skill110002 (3)
+  rotate: false
+  xy: 2, 2
+  size: 322, 154
+  orig: 337, 154
+  offset: 7, 0
+  index: -1
+skill110002 (4)
+  rotate: false
+  xy: 2, 158
+  size: 330, 154
+  orig: 337, 154
+  offset: 0, 0
+  index: -1
+skill110002 (5)
+  rotate: true
+  xy: 578, 26
+  size: 130, 41
+  orig: 337, 154
+  offset: 207, 57
+  index: -1
+skill110002-zx  (1)
+  rotate: false
+  xy: 656, 242
+  size: 67, 70
+  orig: 75, 76
+  offset: 4, 3
+  index: -1
+skill110002-zx  (2)
+  rotate: true
+  xy: 621, 11
+  size: 69, 72
+  orig: 75, 76
+  offset: 3, 2
+  index: -1
+skill110002-zx  (3)
+  rotate: false
+  xy: 621, 82
+  size: 71, 74
+  orig: 75, 76
+  offset: 2, 1
+  index: -1

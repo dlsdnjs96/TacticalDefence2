@@ -1,0 +1,20 @@
+
+xianjinlibao.png
+size: 414,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dz_texiaoguang
+  rotate: true
+  xy: 220, 18
+  size: 197, 193
+  orig: 197, 193
+  offset: 0, 0
+  index: -1
+dz_texiaoguang1
+  rotate: false
+  xy: 1, 1
+  size: 218, 214
+  orig: 218, 214
+  offset: 0, 0
+  index: -1

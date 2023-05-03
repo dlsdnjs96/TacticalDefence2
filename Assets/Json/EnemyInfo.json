@@ -1,0 +1,58 @@
+<<<<<<< HEAD
+{
+  "list": [
+    {
+      "enemyID": 1000000,
+      "level": 1,
+      "exp": 5,
+      "gold": 10
+    },
+    {
+      "enemyID": 1000000,
+      "level": 2,
+      "exp": 7,
+      "gold": 13
+    },
+    {
+      "enemyID": 1000000,
+      "level": 3,
+      "exp": 12,
+      "gold": 22
+    },
+    {
+      "enemyID": 1000000,
+      "level": 5,
+      "exp": 21,
+      "gold": 33
+    }
+  ]
+=======
+{
+  "list": [
+    {
+      "enemyID": 1000000,
+      "level": 1,
+      "exp": 5,
+      "gold": 10
+    },
+    {
+      "enemyID": 1000000,
+      "level": 2,
+      "exp": 7,
+      "gold": 13
+    },
+    {
+      "enemyID": 1000000,
+      "level": 3,
+      "exp": 12,
+      "gold": 22
+    },
+    {
+      "enemyID": 1000000,
+      "level": 5,
+      "exp": 21,
+      "gold": 33
+    }
+  ]
+>>>>>>> e8c52d9063612481c9273d74bbf745c2d3765002
+}

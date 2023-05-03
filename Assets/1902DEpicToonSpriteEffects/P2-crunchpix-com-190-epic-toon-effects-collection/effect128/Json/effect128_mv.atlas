@@ -1,0 +1,62 @@
+
+b130004.png
+size: 608,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk-b (1)
+  rotate: false
+  xy: 0, 308
+  size: 391, 101
+  orig: 400, 137
+  offset: 4, 17
+  index: -1
+atk-b (3)
+  rotate: true
+  xy: 554, 17
+  size: 392, 54
+  orig: 400, 137
+  offset: 2, 44
+  index: -1
+atk-b (5)
+  rotate: false
+  xy: 0, 137
+  size: 395, 74
+  orig: 400, 137
+  offset: 0, 17
+  index: -1
+atk-b (7)
+  rotate: false
+  xy: 0, 79
+  size: 392, 58
+  orig: 400, 137
+  offset: 3, 21
+  index: -1
+atk-b (9)
+  rotate: false
+  xy: 0, 211
+  size: 392, 97
+  orig: 400, 137
+  offset: 2, 15
+  index: -1
+sanlei_00005
+  rotate: true
+  xy: 475, 41
+  size: 368, 79
+  orig: 400, 300
+  offset: 12, 111
+  index: -1
+sanlei_00006
+  rotate: true
+  xy: 395, 46
+  size: 363, 80
+  orig: 400, 300
+  offset: 11, 111
+  index: -1
+sanlei_00007
+  rotate: false
+  xy: 0, 0
+  size: 371, 79
+  orig: 400, 300
+  offset: 13, 111
+  index: -1

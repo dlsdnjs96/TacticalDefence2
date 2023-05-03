@@ -1,0 +1,55 @@
+
+be120005.png
+size: 501,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill-bz (1)
+  rotate: true
+  xy: 255, 60
+  size: 149, 128
+  orig: 795, 496
+  offset: 358, 171
+  index: -1
+skill-bz (2)
+  rotate: false
+  xy: 2, 263
+  size: 295, 290
+  orig: 795, 496
+  offset: 286, 87
+  index: -1
+skill-bz (3)
+  rotate: true
+  xy: 2, 2
+  size: 259, 251
+  orig: 795, 496
+  offset: 306, 107
+  index: -1
+skill-bz (4)
+  rotate: true
+  xy: 299, 346
+  size: 207, 200
+  orig: 795, 496
+  offset: 332, 130
+  index: -1
+skill-bz (5)
+  rotate: false
+  xy: 299, 211
+  size: 173, 133
+  orig: 795, 496
+  offset: 346, 163
+  index: -1
+skill-bz (6)
+  rotate: true
+  xy: 385, 114
+  size: 95, 102
+  orig: 795, 496
+  offset: 386, 193
+  index: -1
+skill-bz (7)
+  rotate: true
+  xy: 385, 12
+  size: 100, 91
+  orig: 795, 496
+  offset: 384, 190
+  index: -1

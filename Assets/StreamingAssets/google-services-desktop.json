@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305393412206",
+    "firebase_url": "https://heroesofcastle-default-rtdb.firebaseio.com",
+    "project_id": "heroesofcastle",
+    "storage_bucket": "heroesofcastle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305393412206:android:e1d7e973c13c12eaebde7f",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.HeroesOfCastle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305393412206-ugtoj49k6ga579ft83qa6qqp49gd719u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKqDiZUKeCfvyYJUGK2r1Pkdk4FgnjYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305393412206-ls9cms4r86rpul58aoj8n8qr9i49rfq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

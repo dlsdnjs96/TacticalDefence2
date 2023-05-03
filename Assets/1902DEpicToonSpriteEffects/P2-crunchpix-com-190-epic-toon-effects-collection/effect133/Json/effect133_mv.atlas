@@ -1,0 +1,76 @@
+
+be_groundbreak.png
+size: 791,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk_m0001
+  rotate: true
+  xy: 672, 85
+  size: 146, 116
+  orig: 270, 200
+  offset: 64, 55
+  index: -1
+atk_m0002
+  rotate: true
+  xy: 514, 49
+  size: 175, 156
+  orig: 270, 200
+  offset: 41, 16
+  index: -1
+atk_m0003
+  rotate: false
+  xy: 542, 233
+  size: 231, 161
+  orig: 270, 200
+  offset: 8, 6
+  index: -1
+atk_m0004
+  rotate: false
+  xy: 273, 226
+  size: 263, 161
+  orig: 270, 200
+  offset: 0, 1
+  index: -1
+atk_m0005
+  rotate: false
+  xy: 267, 49
+  size: 245, 175
+  orig: 270, 200
+  offset: 6, 0
+  index: -1
+atk_m0007
+  rotate: false
+  xy: 2, 172
+  size: 261, 188
+  orig: 270, 200
+  offset: 4, 0
+  index: -1
+atk_m0009
+  rotate: false
+  xy: 2, 362
+  size: 269, 199
+  orig: 270, 200
+  offset: 0, 0
+  index: -1
+atk_m0011
+  rotate: false
+  xy: 273, 389
+  size: 267, 172
+  orig: 270, 200
+  offset: 2, 2
+  index: -1
+atk_m0013
+  rotate: false
+  xy: 2, 2
+  size: 263, 168
+  orig: 270, 200
+  offset: 6, 7
+  index: -1
+atk_m0015
+  rotate: false
+  xy: 542, 396
+  size: 247, 165
+  orig: 270, 200
+  offset: 16, 6
+  index: -1

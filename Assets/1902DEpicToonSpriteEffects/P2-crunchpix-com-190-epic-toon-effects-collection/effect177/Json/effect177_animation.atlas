@@ -1,0 +1,41 @@
+
+skill170005_1.png
+size: 650,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+170005_s_10001
+  rotate: true
+  xy: 495, 160
+  size: 489, 151
+  orig: 500, 300
+  offset: 3, 79
+  index: -1
+170005_s_10002
+  rotate: false
+  xy: 1, 279
+  size: 474, 176
+  orig: 500, 300
+  offset: 20, 62
+  index: -1
+170005_s_10003
+  rotate: false
+  xy: 1, 456
+  size: 493, 193
+  orig: 500, 300
+  offset: 7, 37
+  index: -1
+170005_s_10004
+  rotate: false
+  xy: 1, 1
+  size: 461, 134
+  orig: 500, 300
+  offset: 23, 113
+  index: -1
+170005_s_10005
+  rotate: false
+  xy: 1, 136
+  size: 465, 142
+  orig: 500, 300
+  offset: 17, 90
+  index: -1

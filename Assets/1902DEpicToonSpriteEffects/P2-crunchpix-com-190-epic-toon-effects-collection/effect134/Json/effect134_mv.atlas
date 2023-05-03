@@ -1,0 +1,97 @@
+
+be_soundwave.png
+size: 1012,950
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bimemg-ybg (1)
+  rotate: false
+  xy: 723, 761
+  size: 287, 187
+  orig: 373, 232
+  offset: 42, 19
+  index: -1
+bimemg-ybg (11)
+  rotate: false
+  xy: 597, 16
+  size: 290, 213
+  orig: 373, 232
+  offset: 38, 18
+  index: -1
+bimemg-ybg (13)
+  rotate: false
+  xy: 377, 736
+  size: 344, 212
+  orig: 373, 232
+  offset: 14, 6
+  index: -1
+bimemg-ybg (15)
+  rotate: true
+  xy: 305, 192
+  size: 301, 200
+  orig: 373, 232
+  offset: 32, 15
+  index: -1
+bimemg-ybg (17)
+  rotate: false
+  xy: 690, 535
+  size: 290, 199
+  orig: 373, 232
+  offset: 38, 18
+  index: -1
+bimemg-ybg (19)
+  rotate: false
+  xy: 377, 532
+  size: 311, 202
+  orig: 373, 232
+  offset: 27, 13
+  index: -1
+bimemg-ybg (21)
+  rotate: false
+  xy: 2, 495
+  size: 373, 219
+  orig: 373, 232
+  offset: 0, 0
+  index: -1
+bimemg-ybg (23)
+  rotate: false
+  xy: 305, 2
+  size: 290, 188
+  orig: 373, 232
+  offset: 38, 18
+  index: -1
+bimemg-ybg (25)
+  rotate: true
+  xy: 507, 231
+  size: 299, 207
+  orig: 373, 232
+  offset: 33, 17
+  index: -1
+bimemg-ybg (3)
+  rotate: false
+  xy: 2, 65
+  size: 301, 210
+  orig: 373, 232
+  offset: 32, 15
+  index: -1
+bimemg-ybg (5)
+  rotate: true
+  xy: 716, 237
+  size: 296, 207
+  orig: 373, 232
+  offset: 38, 17
+  index: -1
+bimemg-ybg (7)
+  rotate: false
+  xy: 2, 716
+  size: 373, 232
+  orig: 373, 232
+  offset: 0, 0
+  index: -1
+bimemg-ybg (9)
+  rotate: false
+  xy: 2, 277
+  size: 301, 216
+  orig: 373, 232
+  offset: 32, 15
+  index: -1

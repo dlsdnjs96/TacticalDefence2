@@ -1,0 +1,78 @@
+<<<<<<< HEAD
+{
+  "deckList": [
+    {
+      "name": "NewDeck",
+      "slots": [
+        "Fe06Yga5N8zy9QZhPqlR",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ce9FJTrgLXZbDWlgU0SD",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "NewDeck2",
+      "slots": [
+        "",
+        "",
+        "",
+        "",
+        "Fe06Yga5N8zy9QZhPqlR",
+        "ce9FJTrgLXZbDWlgU0SD",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+=======
+{
+  "deckList": [
+    {
+      "name": "NewDeck",
+      "slots": [
+        "Fe06Yga5N8zy9QZhPqlR",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ce9FJTrgLXZbDWlgU0SD",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "NewDeck2",
+      "slots": [
+        "",
+        "",
+        "",
+        "",
+        "Fe06Yga5N8zy9QZhPqlR",
+        "ce9FJTrgLXZbDWlgU0SD",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+>>>>>>> e8c52d9063612481c9273d74bbf745c2d3765002
+}

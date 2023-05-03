@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Hero
+  - Skill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - TerrianFeatures
+  - Hero
+  - Enemy
+  - Effect
+  - 
+  - UI_Front
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2425651459
+    locked: 0
+  - name: TerrianFeatures
+    uniqueID: 2696089249
+    locked: 0
+  - name: Enemy
+    uniqueID: 4189426099
+    locked: 0
+  - name: Hero
+    uniqueID: 4250941897
+    locked: 0
+  - name: Effect
+    uniqueID: 1059152491
+    locked: 0
+  - name: UI
+    uniqueID: 3458513151
+    locked: 0
+  - name: UI_Front
+    uniqueID: 2341604489
+    locked: 0

@@ -1,0 +1,55 @@
+
+belord_water_04.png
+size: 912,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+170005_a_2
+  rotate: false
+  xy: 664, 146
+  size: 60, 61
+  orig: 80, 80
+  offset: 10, 12
+  index: -1
+skill_bbk (2)
+  rotate: true
+  xy: 731, 209
+  size: 329, 179
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (3)
+  rotate: false
+  xy: 333, 14
+  size: 329, 193
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (4)
+  rotate: false
+  xy: 2, 2
+  size: 329, 198
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (5)
+  rotate: true
+  xy: 499, 209
+  size: 329, 230
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (6)
+  rotate: true
+  xy: 257, 209
+  size: 329, 240
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (7)
+  rotate: true
+  xy: 2, 202
+  size: 336, 253
+  orig: 366, 298
+  offset: 6, 0
+  index: -1

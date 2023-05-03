@@ -1,0 +1,104 @@
+
+b_dragonrage.png
+size: 964,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_00017
+  rotate: false
+  xy: 1, 33
+  size: 76, 76
+  orig: 500, 400
+  offset: 219, 161
+  index: -1
+001_00018
+  rotate: false
+  xy: 556, 4
+  size: 152, 152
+  orig: 500, 400
+  offset: 181, 123
+  index: -1
+001_00019
+  rotate: true
+  xy: 1, 325
+  size: 224, 204
+  orig: 500, 400
+  offset: 143, 97
+  index: -1
+001_00020
+  rotate: true
+  xy: 1, 110
+  size: 214, 196
+  orig: 500, 400
+  offset: 148, 101
+  index: -1
+001_00021
+  rotate: false
+  xy: 399, 364
+  size: 200, 185
+  orig: 500, 400
+  offset: 155, 106
+  index: -1
+001_00022
+  rotate: true
+  xy: 206, 353
+  size: 196, 192
+  orig: 500, 400
+  offset: 159, 103
+  index: -1
+001_00023
+  rotate: true
+  xy: 198, 120
+  size: 204, 198
+  orig: 500, 400
+  offset: 155, 99
+  index: -1
+001_00024
+  rotate: true
+  xy: 397, 157
+  size: 195, 190
+  orig: 500, 400
+  offset: 159, 104
+  index: -1
+001_00025
+  rotate: true
+  xy: 588, 175
+  size: 188, 186
+  orig: 500, 400
+  offset: 162, 105
+  index: -1
+001_00026_xunhuan
+  rotate: true
+  xy: 600, 365
+  size: 184, 183
+  orig: 500, 400
+  offset: 165, 108
+  index: -1
+001_00027
+  rotate: true
+  xy: 784, 368
+  size: 181, 179
+  orig: 500, 400
+  offset: 166, 109
+  index: -1
+001_00028
+  rotate: false
+  xy: 775, 182
+  size: 185, 182
+  orig: 500, 400
+  offset: 164, 107
+  index: -1
+001_00029
+  rotate: true
+  xy: 709, 3
+  size: 171, 168
+  orig: 500, 400
+  offset: 172, 114
+  index: -1
+001_00030_2xiaoshi
+  rotate: false
+  xy: 397, 1
+  size: 158, 155
+  orig: 500, 400
+  offset: 178, 121
+  index: -1

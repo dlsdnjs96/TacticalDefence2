@@ -1,0 +1,27 @@
+
+skill130007.png
+size: 193,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sanlei_00005
+  rotate: false
+  xy: 64, 3
+  size: 64, 295
+  orig: 240, 320
+  offset: 88, 9
+  index: -1
+sanlei_00006
+  rotate: false
+  xy: 128, 6
+  size: 65, 292
+  orig: 240, 320
+  offset: 87, 8
+  index: -1
+sanlei_00007
+  rotate: false
+  xy: 0, 0
+  size: 64, 298
+  orig: 240, 320
+  offset: 88, 10
+  index: -1

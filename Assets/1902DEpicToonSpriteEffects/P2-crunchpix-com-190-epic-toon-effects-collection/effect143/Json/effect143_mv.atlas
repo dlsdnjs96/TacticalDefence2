@@ -1,0 +1,111 @@
+
+crit160008.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crit/bao123_21_00009
+  rotate: false
+  xy: 290, 160
+  size: 75, 60
+  orig: 180, 180
+  offset: 50, 34
+  index: -1
+crit/bao123_21_00010
+  rotate: false
+  xy: 151, 11
+  size: 93, 69
+  orig: 180, 180
+  offset: 43, 29
+  index: -1
+crit/bao123_21_00011
+  rotate: true
+  xy: 290, 222
+  size: 122, 89
+  orig: 180, 180
+  offset: 32, 19
+  index: -1
+crit/bao123_21_00012
+  rotate: false
+  xy: 860, 345
+  size: 155, 155
+  orig: 180, 180
+  offset: 15, 8
+  index: -1
+crit/bao123_21_00013
+  rotate: true
+  xy: 2, 2
+  size: 159, 147
+  orig: 180, 180
+  offset: 13, 6
+  index: -1
+crit/bao123_21_00014
+  rotate: false
+  xy: 171, 346
+  size: 164, 154
+  orig: 180, 180
+  offset: 11, 5
+  index: -1
+crit/bao123_21_00015
+  rotate: false
+  xy: 2, 340
+  size: 167, 160
+  orig: 180, 180
+  offset: 9, 4
+  index: -1
+crit/bao123_21_00016
+  rotate: false
+  xy: 687, 367
+  size: 171, 133
+  orig: 180, 180
+  offset: 7, 2
+  index: -1
+crit/bao123_21_00017
+  rotate: false
+  xy: 512, 367
+  size: 173, 133
+  orig: 180, 180
+  offset: 7, 0
+  index: -1
+crit/bao123_21_00018
+  rotate: true
+  xy: 2, 163
+  size: 175, 145
+  orig: 180, 180
+  offset: 5, 0
+  index: -1
+crit/bao123_21_00019
+  rotate: false
+  xy: 337, 355
+  size: 173, 145
+  orig: 180, 180
+  offset: 7, 0
+  index: -1
+crit/bao123_21_00020
+  rotate: true
+  xy: 149, 191
+  size: 147, 139
+  orig: 180, 180
+  offset: 23, 0
+  index: -1
+crit/bao123_21_00021
+  rotate: false
+  xy: 151, 82
+  size: 113, 107
+  orig: 180, 180
+  offset: 27, 45
+  index: -1
+crit/bao123_21_00022
+  rotate: false
+  xy: 381, 250
+  size: 112, 103
+  orig: 180, 180
+  offset: 28, 52
+  index: -1
+crit/bao123_21_00023
+  rotate: true
+  xy: 381, 148
+  size: 100, 106
+  orig: 180, 180
+  offset: 40, 50
+  index: -1

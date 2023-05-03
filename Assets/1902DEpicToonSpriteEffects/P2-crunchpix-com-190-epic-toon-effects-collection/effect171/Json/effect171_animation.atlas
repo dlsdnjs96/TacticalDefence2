@@ -1,0 +1,83 @@
+
+skill120005.png
+size: 896,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill-b (1)
+  rotate: false
+  xy: 175, 2
+  size: 144, 125
+  orig: 327, 198
+  offset: 105, 34
+  index: -1
+skill-b (10)
+  rotate: true
+  xy: 765, 11
+  size: 116, 123
+  orig: 327, 198
+  offset: 118, 45
+  index: -1
+skill-b (11)
+  rotate: false
+  xy: 645, 33
+  size: 118, 128
+  orig: 327, 198
+  offset: 118, 45
+  index: -1
+skill-b (2)
+  rotate: false
+  xy: 488, 11
+  size: 155, 144
+  orig: 327, 198
+  offset: 100, 34
+  index: -1
+skill-b (3)
+  rotate: false
+  xy: 321, 6
+  size: 165, 146
+  orig: 327, 198
+  offset: 95, 34
+  index: -1
+skill-b (4)
+  rotate: false
+  xy: 2, 2
+  size: 171, 147
+  orig: 327, 198
+  offset: 91, 34
+  index: -1
+skill-b (5)
+  rotate: false
+  xy: 407, 157
+  size: 183, 133
+  orig: 327, 198
+  offset: 85, 32
+  index: -1
+skill-b (6)
+  rotate: false
+  xy: 210, 154
+  size: 195, 136
+  orig: 327, 198
+  offset: 79, 29
+  index: -1
+skill-b (7)
+  rotate: false
+  xy: 2, 151
+  size: 206, 139
+  orig: 327, 198
+  offset: 74, 26
+  index: -1
+skill-b (8)
+  rotate: false
+  xy: 592, 163
+  size: 173, 127
+  orig: 327, 198
+  offset: 91, 34
+  index: -1
+skill-b (9)
+  rotate: true
+  xy: 767, 129
+  size: 161, 127
+  orig: 327, 198
+  offset: 97, 36
+  index: -1

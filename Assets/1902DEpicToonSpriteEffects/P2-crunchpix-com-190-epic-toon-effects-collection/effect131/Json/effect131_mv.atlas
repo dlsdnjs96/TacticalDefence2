@@ -1,0 +1,202 @@
+
+be_darkfirecricle.png
+size: 960,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asf0001
+  rotate: false
+  xy: 621, 20
+  size: 60, 39
+  orig: 200, 100
+  offset: 70, 37
+  index: -1
+asf0002
+  rotate: false
+  xy: 553, 5
+  size: 66, 46
+  orig: 200, 100
+  offset: 69, 38
+  index: -1
+asf0003
+  rotate: false
+  xy: 867, 21
+  size: 76, 50
+  orig: 200, 100
+  offset: 66, 36
+  index: -1
+asf0004
+  rotate: false
+  xy: 777, 7
+  size: 88, 64
+  orig: 200, 100
+  offset: 56, 31
+  index: -1
+asf0005
+  rotate: false
+  xy: 810, 335
+  size: 137, 72
+  orig: 200, 100
+  offset: 28, 22
+  index: -1
+asf0006
+  rotate: false
+  xy: 608, 226
+  size: 182, 79
+  orig: 200, 100
+  offset: 5, 16
+  index: -1
+asf0007
+  rotate: false
+  xy: 2, 307
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+asf0008
+  rotate: false
+  xy: 2, 205
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+asf0009
+  rotate: false
+  xy: 2, 2
+  size: 200, 99
+  orig: 200, 100
+  offset: 0, 1
+  index: -1
+asf0010
+  rotate: false
+  xy: 204, 2
+  size: 200, 99
+  orig: 200, 100
+  offset: 0, 1
+  index: -1
+asf0011
+  rotate: false
+  xy: 204, 307
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+asf0012
+  rotate: false
+  xy: 2, 103
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+asf0013
+  rotate: false
+  xy: 204, 205
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+asf0014
+  rotate: false
+  xy: 406, 307
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+asf0015
+  rotate: false
+  xy: 204, 103
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+asf0016
+  rotate: false
+  xy: 406, 205
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+asf0017
+  rotate: false
+  xy: 608, 307
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+asf0018
+  rotate: false
+  xy: 406, 108
+  size: 194, 95
+  orig: 200, 100
+  offset: 6, 5
+  index: -1
+asf0019
+  rotate: false
+  xy: 406, 6
+  size: 145, 45
+  orig: 200, 100
+  offset: 21, 27
+  index: -1
+asf0020
+  rotate: false
+  xy: 810, 288
+  size: 145, 45
+  orig: 200, 100
+  offset: 21, 27
+  index: -1
+sc0001
+  rotate: false
+  xy: 792, 183
+  size: 165, 50
+  orig: 175, 55
+  offset: 5, 3
+  index: -1
+sc0002
+  rotate: false
+  xy: 406, 53
+  size: 173, 53
+  orig: 175, 55
+  offset: 1, 1
+  index: -1
+sc0003
+  rotate: false
+  xy: 608, 171
+  size: 173, 53
+  orig: 175, 55
+  offset: 1, 1
+  index: -1
+sc0004
+  rotate: false
+  xy: 602, 116
+  size: 173, 53
+  orig: 175, 55
+  offset: 1, 1
+  index: -1
+sc0005
+  rotate: false
+  xy: 792, 235
+  size: 166, 51
+  orig: 175, 55
+  offset: 5, 2
+  index: -1
+sc0006
+  rotate: false
+  xy: 602, 61
+  size: 173, 53
+  orig: 175, 55
+  offset: 1, 1
+  index: -1
+sc0007
+  rotate: false
+  xy: 783, 128
+  size: 173, 53
+  orig: 175, 55
+  offset: 1, 1
+  index: -1
+sc0008
+  rotate: false
+  xy: 777, 73
+  size: 173, 53
+  orig: 175, 55
+  offset: 1, 1
+  index: -1

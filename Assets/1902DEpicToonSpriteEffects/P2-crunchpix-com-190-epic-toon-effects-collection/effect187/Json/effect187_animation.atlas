@@ -1,0 +1,55 @@
+
+end_204703.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiaxue0001
+  rotate: false
+  xy: 131, 296
+  size: 81, 15
+  orig: 81, 15
+  offset: 0, 0
+  index: -1
+jiaxue0002
+  rotate: true
+  xy: 327, 366
+  size: 85, 124
+  orig: 85, 124
+  offset: 0, 0
+  index: -1
+jiaxue0003
+  rotate: false
+  xy: 234, 331
+  size: 91, 120
+  orig: 91, 120
+  offset: 0, 0
+  index: -1
+jiaxue0004
+  rotate: false
+  xy: 2, 9
+  size: 95, 130
+  orig: 95, 130
+  offset: 0, 0
+  index: -1
+jiaxue0005
+  rotate: false
+  xy: 131, 313
+  size: 101, 138
+  orig: 101, 138
+  offset: 0, 0
+  index: -1
+jiaxue0006
+  rotate: false
+  xy: 2, 141
+  size: 114, 151
+  orig: 114, 151
+  offset: 0, 0
+  index: -1
+jiaxue0007
+  rotate: false
+  xy: 2, 294
+  size: 127, 157
+  orig: 127, 157
+  offset: 0, 0
+  index: -1

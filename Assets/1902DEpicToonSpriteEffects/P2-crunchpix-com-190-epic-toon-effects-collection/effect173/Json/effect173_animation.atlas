@@ -1,0 +1,382 @@
+
+skill140006.png
+size: 1019,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/_0001_dihuo_00054
+  rotate: false
+  xy: 598, 69
+  size: 272, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/_0013_bao_00037
+  rotate: false
+  xy: 233, 434
+  size: 375, 204
+  orig: 378, 239
+  offset: 0, 19
+  index: -1
+images/_0015_bao_00035
+  rotate: false
+  xy: 2, 798
+  size: 378, 218
+  orig: 378, 239
+  offset: 0, 7
+  index: -1
+images/_0017_bao_00033
+  rotate: true
+  xy: 382, 640
+  size: 376, 229
+  orig: 378, 239
+  offset: 2, 0
+  index: -1
+images/_0018_bao_00032
+  rotate: true
+  xy: 2, 425
+  size: 371, 229
+  orig: 378, 239
+  offset: 6, 0
+  index: -1
+images/_0020_bao_00030
+  rotate: true
+  xy: 610, 272
+  size: 366, 226
+  orig: 378, 239
+  offset: 9, 3
+  index: -1
+images/_0023_bao_00027
+  rotate: true
+  xy: 233, 81
+  size: 351, 217
+  orig: 378, 239
+  offset: 15, 10
+  index: -1
+images/_0025_bao_00025
+  rotate: true
+  xy: 2, 89
+  size: 334, 209
+  orig: 378, 239
+  offset: 24, 18
+  index: -1
+images/_0027_bao_00023
+  rotate: false
+  xy: 613, 819
+  size: 314, 197
+  orig: 378, 239
+  offset: 34, 25
+  index: -1
+images/_0029_bao_00021
+  rotate: true
+  xy: 838, 535
+  size: 282, 179
+  orig: 378, 239
+  offset: 50, 33
+  index: -1
+images/d
+  rotate: false
+  xy: 872, 8
+  size: 141, 103
+  orig: 141, 103
+  offset: 0, 0
+  index: -1
+images/huoshan/_0000_huoshan_00058
+  rotate: false
+  xy: 2, 10
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0002_huoshan_00054
+  rotate: true
+  xy: 452, 291
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0004_huoshan_00050
+  rotate: true
+  xy: 531, 291
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0006_huoshan_00046
+  rotate: false
+  xy: 145, 2
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0008_huoshan_00042
+  rotate: false
+  xy: 288, 2
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0010_huoshan_00038
+  rotate: true
+  xy: 929, 875
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/zha/_0000_zha_00016
+  rotate: true
+  xy: 872, 253
+  size: 139, 134
+  orig: 160, 145
+  offset: 4, 11
+  index: -1
+images/zha/_0001_zha_00014
+  rotate: true
+  xy: 872, 113
+  size: 138, 134
+  orig: 160, 145
+  offset: 5, 10
+  index: -1
+images/zha/_0002_zha_00012
+  rotate: false
+  xy: 838, 394
+  size: 138, 139
+  orig: 160, 145
+  offset: 6, 4
+  index: -1
+images/zha/_0003_zha_00010
+  rotate: false
+  xy: 838, 394
+  size: 138, 139
+  orig: 160, 145
+  offset: 6, 4
+  index: -1
+images/zha/_0004_zha_00008
+  rotate: false
+  xy: 233, 653
+  size: 143, 143
+  orig: 160, 145
+  offset: 7, 0
+  index: -1
+images/zha/_0005_zha_00006
+  rotate: true
+  xy: 452, 129
+  size: 160, 144
+  orig: 160, 145
+  offset: 0, 0
+  index: -1
+images/zha/_0006_zha_00004
+  rotate: false
+  xy: 613, 675
+  size: 146, 142
+  orig: 160, 145
+  offset: 4, 1
+  index: -1
+images/zha/_0007_zha_00002
+  rotate: false
+  xy: 452, 5
+  size: 144, 122
+  orig: 160, 145
+  offset: 2, 7
+  index: -1
+images/zha/_0008_zha_00000
+  rotate: false
+  xy: 452, 5
+  size: 144, 122
+  orig: 160, 145
+  offset: 2, 7
+  index: -1
+
+skill1400062.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/_0000_dihuo_00056
+  rotate: false
+  xy: 276, 416
+  size: 272, 200
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0002_dihuo_00052
+  rotate: false
+  xy: 2, 821
+  size: 272, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0003_dihuo_00050
+  rotate: false
+  xy: 2, 10
+  size: 272, 200
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0004_dihuo_00048
+  rotate: true
+  xy: 824, 476
+  size: 272, 197
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0005_dihuo_00046
+  rotate: false
+  xy: 550, 221
+  size: 272, 194
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0006_dihuo_00044
+  rotate: false
+  xy: 550, 26
+  size: 272, 193
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0007_dihuo_00042
+  rotate: false
+  xy: 2, 618
+  size: 272, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0008_dihuo_00040
+  rotate: false
+  xy: 276, 821
+  size: 272, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0009_dihuo_00038
+  rotate: false
+  xy: 276, 214
+  size: 272, 200
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0010_dihuo_00036
+  rotate: true
+  xy: 824, 750
+  size: 272, 198
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0011_dihuo_00034
+  rotate: false
+  xy: 276, 17
+  size: 272, 195
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0012_dihuo_00032
+  rotate: false
+  xy: 2, 415
+  size: 272, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0013_dihuo_00030
+  rotate: false
+  xy: 276, 618
+  size: 272, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0014_dihuo_00028
+  rotate: false
+  xy: 550, 417
+  size: 272, 199
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0015_dihuo_00026
+  rotate: false
+  xy: 550, 821
+  size: 272, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0016_dihuo_00024
+  rotate: false
+  xy: 550, 618
+  size: 272, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/1/_0017_dihuo_00022
+  rotate: false
+  xy: 2, 212
+  size: 272, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+images/huoshan/_0012_huoshan_00034
+  rotate: false
+  xy: 824, 397
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0014_huoshan_00030
+  rotate: false
+  xy: 824, 318
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0016_huoshan_00026
+  rotate: false
+  xy: 824, 239
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0018_huoshan_00022
+  rotate: false
+  xy: 824, 160
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0020_huoshan_00018
+  rotate: false
+  xy: 824, 81
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0022_huoshan_00014
+  rotate: false
+  xy: 824, 2
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+
+skill1400063.png
+size: 431,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/huoshan/_0024_huoshan_00010
+  rotate: false
+  xy: 2, 2
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0026_huoshan_00006
+  rotate: false
+  xy: 145, 2
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1
+images/huoshan/_0028_huoshan_00002
+  rotate: false
+  xy: 288, 2
+  size: 141, 77
+  orig: 147, 84
+  offset: 3, 3
+  index: -1

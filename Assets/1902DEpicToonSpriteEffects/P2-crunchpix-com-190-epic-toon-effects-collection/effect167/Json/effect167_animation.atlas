@@ -1,0 +1,104 @@
+
+lord_wind_04.png
+size: 966,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+170005_f_10001
+  rotate: true
+  xy: 2, 2
+  size: 200, 175
+  orig: 200, 200
+  offset: 0, 25
+  index: -1
+170005_f_10002
+  rotate: false
+  xy: 582, 181
+  size: 200, 175
+  orig: 200, 200
+  offset: 0, 25
+  index: -1
+170005_f_10003
+  rotate: false
+  xy: 536, 4
+  size: 200, 175
+  orig: 200, 200
+  offset: 0, 25
+  index: -1
+170005_f_10004
+  rotate: false
+  xy: 738, 5
+  size: 198, 169
+  orig: 200, 200
+  offset: 2, 25
+  index: -1
+170005_f_10005
+  rotate: false
+  xy: 429, 18
+  size: 105, 143
+  orig: 200, 200
+  offset: 89, 42
+  index: -1
+170005_f_10006
+  rotate: true
+  xy: 850, 380
+  size: 88, 113
+  orig: 200, 200
+  offset: 96, 49
+  index: -1
+170005_f_3
+  rotate: false
+  xy: 784, 176
+  size: 180, 180
+  orig: 240, 240
+  offset: 31, 38
+  index: -1
+170005_f_40001
+  rotate: true
+  xy: 195, 163
+  size: 148, 298
+  orig: 240, 400
+  offset: 42, 102
+  index: -1
+170005_f_40002
+  rotate: true
+  xy: 195, 313
+  size: 119, 385
+  orig: 240, 400
+  offset: 46, 15
+  index: -1
+170005_f_40003
+  rotate: false
+  xy: 2, 204
+  size: 191, 384
+  orig: 240, 400
+  offset: 26, 0
+  index: -1
+170005_f_40004
+  rotate: true
+  xy: 195, 434
+  size: 154, 388
+  orig: 240, 400
+  offset: 42, 9
+  index: -1
+170005_f_40005
+  rotate: true
+  xy: 585, 470
+  size: 118, 348
+  orig: 240, 400
+  offset: 62, 30
+  index: -1
+170005_f_40006
+  rotate: true
+  xy: 585, 358
+  size: 110, 263
+  orig: 240, 400
+  offset: 72, 42
+  index: -1
+170005_f_40007
+  rotate: true
+  xy: 179, 30
+  size: 131, 248
+  orig: 240, 400
+  offset: 61, 38
+  index: -1

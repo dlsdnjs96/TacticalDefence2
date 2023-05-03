@@ -1,0 +1,146 @@
+
+fantui-fengying.png
+size: 871,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fan-feng0001
+  rotate: false
+  xy: 2, 57
+  size: 98, 137
+  orig: 200, 150
+  offset: 54, 6
+  index: -1
+fan-feng0002
+  rotate: false
+  xy: 102, 66
+  size: 92, 128
+  orig: 200, 150
+  offset: 57, 10
+  index: -1
+fan-feng0003
+  rotate: true
+  xy: 196, 22
+  size: 76, 101
+  orig: 200, 150
+  offset: 65, 24
+  index: -1
+fan-feng0004
+  rotate: false
+  xy: 826, 149
+  size: 42, 45
+  orig: 200, 150
+  offset: 82, 52
+  index: -1
+fan-feng0005
+  rotate: false
+  xy: 299, 9
+  size: 86, 89
+  orig: 200, 150
+  offset: 59, 11
+  index: -1
+fan-feng0006
+  rotate: true
+  xy: 482, 13
+  size: 86, 92
+  orig: 200, 150
+  offset: 59, 11
+  index: -1
+fan-feng0007
+  rotate: false
+  xy: 376, 101
+  size: 88, 93
+  orig: 200, 150
+  offset: 58, 9
+  index: -1
+fan-feng0008
+  rotate: false
+  xy: 196, 100
+  size: 88, 94
+  orig: 200, 150
+  offset: 58, 9
+  index: -1
+fan-feng0009
+  rotate: false
+  xy: 466, 101
+  size: 88, 93
+  orig: 200, 150
+  offset: 58, 9
+  index: -1
+fan-feng0010
+  rotate: false
+  xy: 286, 100
+  size: 88, 94
+  orig: 200, 150
+  offset: 58, 9
+  index: -1
+fan-feng0011
+  rotate: false
+  xy: 556, 101
+  size: 88, 93
+  orig: 200, 150
+  offset: 58, 9
+  index: -1
+fan-feng0012
+  rotate: false
+  xy: 646, 101
+  size: 88, 93
+  orig: 200, 150
+  offset: 58, 9
+  index: -1
+fan-feng0013
+  rotate: false
+  xy: 736, 101
+  size: 88, 93
+  orig: 200, 150
+  offset: 58, 9
+  index: -1
+fan-feng0014
+  rotate: true
+  xy: 387, 11
+  size: 88, 93
+  orig: 200, 150
+  offset: 58, 9
+  index: -1
+fan-feng0015
+  rotate: true
+  xy: 576, 13
+  size: 86, 91
+  orig: 200, 150
+  offset: 59, 11
+  index: -1
+fan-feng0016
+  rotate: true
+  xy: 669, 13
+  size: 86, 90
+  orig: 200, 150
+  offset: 59, 11
+  index: -1
+fan-feng0017
+  rotate: false
+  xy: 2, 2
+  size: 86, 53
+  orig: 200, 150
+  offset: 59, 11
+  index: -1
+fan-feng0018
+  rotate: true
+  xy: 761, 13
+  size: 86, 53
+  orig: 200, 150
+  offset: 59, 11
+  index: -1
+fan-feng0019
+  rotate: true
+  xy: 816, 15
+  size: 84, 53
+  orig: 200, 150
+  offset: 60, 11
+  index: -1
+fan-feng0020
+  rotate: false
+  xy: 102, 13
+  size: 80, 51
+  orig: 200, 150
+  offset: 62, 13
+  index: -1

@@ -1,0 +1,104 @@
+
+fullskill140005.png
+size: 1013,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+full_00002
+  rotate: true
+  xy: 447, 640
+  size: 46, 19
+  orig: 768, 512
+  offset: 594, 490
+  index: -1
+full_00004
+  rotate: true
+  xy: 200, 37
+  size: 134, 144
+  orig: 768, 512
+  offset: 526, 365
+  index: -1
+full_00006
+  rotate: false
+  xy: 799, 783
+  size: 165, 227
+  orig: 768, 512
+  offset: 490, 282
+  index: -1
+full_00008
+  rotate: false
+  xy: 749, 391
+  size: 206, 295
+  orig: 768, 512
+  offset: 458, 214
+  index: -1
+full_00010
+  rotate: true
+  xy: 487, 2
+  size: 247, 369
+  orig: 768, 512
+  offset: 429, 140
+  index: -1
+full_00012
+  rotate: false
+  xy: 487, 251
+  size: 260, 435
+  orig: 768, 512
+  offset: 406, 74
+  index: -1
+full_00014
+  rotate: true
+  xy: 322, 688
+  size: 322, 475
+  orig: 768, 512
+  offset: 334, 34
+  index: -1
+full_00016
+  rotate: true
+  xy: 2, 173
+  size: 346, 483
+  orig: 768, 512
+  offset: 309, 26
+  index: -1
+full_00018
+  rotate: false
+  xy: 2, 521
+  size: 318, 489
+  orig: 768, 512
+  offset: 309, 20
+  index: -1
+full_00020
+  rotate: false
+  xy: 2, 22
+  size: 196, 149
+  orig: 768, 512
+  offset: 309, 16
+  index: -1
+full_00022
+  rotate: true
+  xy: 858, 70
+  size: 183, 153
+  orig: 768, 512
+  offset: 317, 12
+  index: -1
+full_00024
+  rotate: true
+  xy: 346, 5
+  size: 166, 132
+  orig: 768, 512
+  offset: 325, 9
+  index: -1
+full_00026
+  rotate: false
+  xy: 749, 255
+  size: 168, 134
+  orig: 768, 512
+  offset: 325, 7
+  index: -1
+full_00028
+  rotate: true
+  xy: 322, 530
+  size: 156, 123
+  orig: 768, 512
+  offset: 334, 18
+  index: -1

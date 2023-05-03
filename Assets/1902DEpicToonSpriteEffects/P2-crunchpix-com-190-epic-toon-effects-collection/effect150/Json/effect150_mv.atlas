@@ -1,0 +1,153 @@
+
+fullskill110004.png
+size: 953,917
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx1/01_00000
+  rotate: true
+  xy: 743, 287
+  size: 175, 201
+  orig: 720, 480
+  offset: 316, 113
+  index: -1
+tx1/01_00001
+  rotate: false
+  xy: 604, 5
+  size: 184, 212
+  orig: 720, 480
+  offset: 306, 113
+  index: -1
+tx1/01_00002
+  rotate: false
+  xy: 557, 442
+  size: 185, 225
+  orig: 720, 480
+  offset: 305, 112
+  index: -1
+tx1/01_00003
+  rotate: false
+  xy: 187, 179
+  size: 187, 238
+  orig: 720, 480
+  offset: 304, 112
+  index: -1
+tx1/01_00004
+  rotate: false
+  xy: 186, 668
+  size: 188, 248
+  orig: 720, 480
+  offset: 303, 112
+  index: -1
+tx1/01_00005
+  rotate: false
+  xy: 375, 192
+  size: 190, 235
+  orig: 720, 480
+  offset: 301, 112
+  index: -1
+tx1/01_00006
+  rotate: false
+  xy: 758, 681
+  size: 194, 235
+  orig: 720, 480
+  offset: 297, 112
+  index: -1
+tx1/01_00007
+  rotate: false
+  xy: 366, 428
+  size: 190, 239
+  orig: 720, 480
+  offset: 301, 113
+  index: -1
+tx1/01_00008
+  rotate: false
+  xy: 1, 403
+  size: 175, 256
+  orig: 720, 480
+  offset: 316, 113
+  index: -1
+tx1/01_00009
+  rotate: false
+  xy: 1, 660
+  size: 184, 256
+  orig: 720, 480
+  offset: 306, 113
+  index: -1
+tx1/01_00010
+  rotate: false
+  xy: 1, 161
+  size: 185, 241
+  orig: 720, 480
+  offset: 305, 112
+  index: -1
+tx1/01_00011
+  rotate: false
+  xy: 375, 668
+  size: 187, 248
+  orig: 720, 480
+  offset: 304, 112
+  index: -1
+tx1/01_00012
+  rotate: false
+  xy: 177, 418
+  size: 188, 241
+  orig: 720, 480
+  offset: 303, 112
+  index: -1
+tx1/01_00013
+  rotate: true
+  xy: 375, 1
+  size: 190, 228
+  orig: 720, 480
+  offset: 301, 112
+  index: -1
+tx1/01_00014
+  rotate: false
+  xy: 563, 676
+  size: 194, 240
+  orig: 720, 480
+  offset: 297, 112
+  index: -1
+tx1/01_00015
+  rotate: false
+  xy: 743, 463
+  size: 190, 212
+  orig: 720, 480
+  offset: 301, 113
+  index: -1
+tx1/01_00016
+  rotate: false
+  xy: 566, 218
+  size: 175, 223
+  orig: 720, 480
+  offset: 316, 114
+  index: -1
+tx2/01_00000
+  rotate: true
+  xy: 187, 58
+  size: 120, 166
+  orig: 720, 480
+  offset: 334, 129
+  index: -1
+tx2/01_00001
+  rotate: true
+  xy: 789, 2
+  size: 118, 162
+  orig: 720, 480
+  offset: 336, 130
+  index: -1
+tx2/01_00002
+  rotate: true
+  xy: 1, 25
+  size: 135, 164
+  orig: 720, 480
+  offset: 327, 130
+  index: -1
+tx2/01_00003
+  rotate: false
+  xy: 789, 121
+  size: 128, 165
+  orig: 720, 480
+  offset: 330, 129
+  index: -1

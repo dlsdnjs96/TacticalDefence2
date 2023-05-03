@@ -1,0 +1,55 @@
+
+be180007.png
+size: 796,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk-b (1)
+  rotate: false
+  xy: 540, 192
+  size: 254, 192
+  orig: 285, 206
+  offset: 0, 14
+  index: -1
+atk-b (2)
+  rotate: false
+  xy: 2, 179
+  size: 275, 205
+  orig: 285, 206
+  offset: 10, 0
+  index: -1
+atk-b (3)
+  rotate: false
+  xy: 279, 181
+  size: 259, 203
+  orig: 285, 206
+  offset: 26, 1
+  index: -1
+atk-b (4)
+  rotate: false
+  xy: 540, 3
+  size: 243, 187
+  orig: 285, 206
+  offset: 29, 17
+  index: -1
+atk-b (5)
+  rotate: false
+  xy: 2, 2
+  size: 207, 175
+  orig: 285, 206
+  offset: 42, 20
+  index: -1
+atk-b (6)
+  rotate: false
+  xy: 211, 27
+  size: 186, 150
+  orig: 285, 206
+  offset: 68, 32
+  index: -1
+atk-b (7)
+  rotate: true
+  xy: 399, 37
+  size: 142, 139
+  orig: 285, 206
+  offset: 81, 29
+  index: -1

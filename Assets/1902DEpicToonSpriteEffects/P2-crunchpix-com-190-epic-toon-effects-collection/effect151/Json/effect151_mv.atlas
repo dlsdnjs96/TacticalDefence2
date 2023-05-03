@@ -1,0 +1,62 @@
+
+fullskill120001.png
+size: 927,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fullskill-b (1)
+  rotate: false
+  xy: 2, 61
+  size: 188, 244
+  orig: 497, 310
+  offset: 273, 66
+  index: -1
+fullskill-b (11)
+  rotate: false
+  xy: 675, 22
+  size: 173, 69
+  orig: 497, 310
+  offset: 279, 80
+  index: -1
+fullskill-b (2)
+  rotate: false
+  xy: 192, 101
+  size: 198, 204
+  orig: 497, 310
+  offset: 269, 69
+  index: -1
+fullskill-b (3)
+  rotate: false
+  xy: 392, 103
+  size: 194, 202
+  orig: 497, 310
+  offset: 269, 73
+  index: -1
+fullskill-b (4)
+  rotate: false
+  xy: 588, 111
+  size: 201, 194
+  orig: 497, 310
+  offset: 264, 69
+  index: -1
+fullskill-b (5)
+  rotate: true
+  xy: 791, 93
+  size: 212, 134
+  orig: 497, 310
+  offset: 259, 66
+  index: -1
+fullskill-b (7)
+  rotate: false
+  xy: 192, 4
+  size: 232, 95
+  orig: 497, 310
+  offset: 251, 63
+  index: -1
+fullskill-b (9)
+  rotate: false
+  xy: 426, 2
+  size: 247, 99
+  orig: 497, 310
+  offset: 242, 62
+  index: -1

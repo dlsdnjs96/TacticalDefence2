@@ -1,0 +1,153 @@
+
+yanhua.png
+size: 909,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+770000
+  rotate: false
+  xy: 321, 4
+  size: 12, 14
+  orig: 118, 116
+  offset: 53, 59
+  index: -1
+770001
+  rotate: true
+  xy: 861, 157
+  size: 46, 47
+  orig: 118, 116
+  offset: 36, 41
+  index: -1
+770002
+  rotate: true
+  xy: 820, 44
+  size: 54, 56
+  orig: 118, 116
+  offset: 32, 36
+  index: -1
+770003
+  rotate: false
+  xy: 654, 31
+  size: 60, 63
+  orig: 118, 116
+  offset: 29, 33
+  index: -1
+770004
+  rotate: false
+  xy: 589, 26
+  size: 64, 68
+  orig: 118, 116
+  offset: 27, 30
+  index: -1
+770005
+  rotate: false
+  xy: 321, 19
+  size: 68, 72
+  orig: 118, 116
+  offset: 25, 27
+  index: -1
+770006
+  rotate: false
+  xy: 182, 11
+  size: 73, 77
+  orig: 118, 116
+  offset: 22, 23
+  index: -1
+770007
+  rotate: true
+  xy: 95, 9
+  size: 77, 86
+  orig: 118, 116
+  offset: 21, 19
+  index: -1
+770008
+  rotate: true
+  xy: 1, 1
+  size: 85, 93
+  orig: 118, 116
+  offset: 16, 15
+  index: -1
+770009
+  rotate: true
+  xy: 489, 3
+  size: 91, 99
+  orig: 118, 116
+  offset: 14, 12
+  index: -1
+770010
+  rotate: true
+  xy: 715, 1
+  size: 96, 104
+  orig: 118, 116
+  offset: 12, 9
+  index: -1
+770011
+  rotate: false
+  xy: 660, 98
+  size: 102, 105
+  orig: 118, 116
+  offset: 8, 7
+  index: -1
+770012
+  rotate: false
+  xy: 557, 95
+  size: 102, 108
+  orig: 118, 116
+  offset: 7, 5
+  index: -1
+770013
+  rotate: false
+  xy: 342, 95
+  size: 107, 108
+  orig: 118, 116
+  offset: 4, 5
+  index: -1
+770014
+  rotate: true
+  xy: 232, 92
+  size: 111, 109
+  orig: 118, 116
+  offset: 0, 5
+  index: -1
+770015
+  rotate: false
+  xy: 117, 89
+  size: 114, 114
+  orig: 118, 116
+  offset: 1, 1
+  index: -1
+770016
+  rotate: false
+  xy: 1, 87
+  size: 115, 116
+  orig: 118, 116
+  offset: 1, 0
+  index: -1
+770017
+  rotate: true
+  xy: 450, 95
+  size: 108, 106
+  orig: 118, 116
+  offset: 10, 2
+  index: -1
+770018
+  rotate: false
+  xy: 763, 99
+  size: 97, 104
+  orig: 118, 116
+  offset: 12, 4
+  index: -1
+770019
+  rotate: false
+  xy: 390, 2
+  size: 98, 92
+  orig: 118, 116
+  offset: 12, 4
+  index: -1
+770020
+  rotate: false
+  xy: 256, 4
+  size: 64, 87
+  orig: 118, 116
+  offset: 13, 9
+  index: -1

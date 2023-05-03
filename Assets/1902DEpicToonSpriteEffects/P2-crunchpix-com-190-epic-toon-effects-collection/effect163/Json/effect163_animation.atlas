@@ -1,0 +1,27 @@
+
+lord_all_01.png
+size: 158,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sanlei_00005
+  rotate: false
+  xy: 56, 6
+  size: 46, 276
+  orig: 240, 320
+  offset: 98, 28
+  index: -1
+sanlei_00006
+  rotate: false
+  xy: 104, 22
+  size: 52, 260
+  orig: 240, 320
+  offset: 95, 40
+  index: -1
+sanlei_00007
+  rotate: false
+  xy: 2, 2
+  size: 52, 280
+  orig: 240, 320
+  offset: 95, 28
+  index: -1

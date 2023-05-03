@@ -1,0 +1,62 @@
+
+7940.png
+size: 407,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4 (1)
+  rotate: false
+  xy: 2, 22
+  size: 95, 45
+  orig: 230, 113
+  offset: 0, 31
+  index: -1
+4 (2)
+  rotate: false
+  xy: 234, 94
+  size: 158, 89
+  orig: 230, 113
+  offset: 0, 3
+  index: -1
+4 (3)
+  rotate: false
+  xy: 2, 69
+  size: 229, 109
+  orig: 230, 113
+  offset: 0, 0
+  index: -1
+4 (4)
+  rotate: false
+  xy: 2, 180
+  size: 230, 111
+  orig: 230, 113
+  offset: 0, 0
+  index: -1
+4 (5)
+  rotate: false
+  xy: 2, 293
+  size: 230, 112
+  orig: 230, 113
+  offset: 0, 0
+  index: -1
+4 (6)
+  rotate: false
+  xy: 234, 295
+  size: 169, 110
+  orig: 230, 113
+  offset: 60, 0
+  index: -1
+4 (7)
+  rotate: false
+  xy: 234, 185
+  size: 151, 108
+  orig: 230, 113
+  offset: 77, 0
+  index: -1
+4 (8)
+  rotate: false
+  xy: 233, 2
+  size: 134, 90
+  orig: 230, 113
+  offset: 96, 1
+  index: -1

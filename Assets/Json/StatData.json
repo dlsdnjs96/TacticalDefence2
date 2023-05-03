@@ -1,0 +1,406 @@
+<<<<<<< HEAD
+{
+  "list": [
+    {
+      "entityID": 1000000,
+      "baseStat": {
+        "wAtk": 30.0,
+        "mAtk": 130.0,
+        "atkSpeed": 0.8,
+        "atkRange": 2.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 650.0,
+        "defensive": 5.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 7.0,
+        "atkSpeed": 0.05,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 2.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 10000,
+      "baseStat": {
+        "wAtk": 100.0,
+        "mAtk": 0.0,
+        "atkSpeed": 1.0,
+        "atkRange": 4.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 3000.0,
+        "defensive": 10.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 0.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 0.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 20000,
+      "baseStat": {
+        "wAtk": 150.0,
+        "mAtk": 130.0,
+        "atkSpeed": 0.8,
+        "atkRange": 8.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 1600.0,
+        "defensive": 5.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 0.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 0.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 21000,
+      "baseStat": {
+        "wAtk": 170.0,
+        "mAtk": 80.0,
+        "atkSpeed": 1.2,
+        "atkRange": 10.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 1500.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 0.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 0.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 30000,
+      "baseStat": {
+        "wAtk": 110.0,
+        "mAtk": 90.0,
+        "atkSpeed": 1.0,
+        "atkRange": 10.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 1500.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 0.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 0.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 31000,
+      "baseStat": {
+        "wAtk": 100.0,
+        "mAtk": 200.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 1900.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 5.0,
+        "mAtk": 7.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 12.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    }
+  ]
+=======
+{
+  "list": [
+    {
+      "entityID": 1000000,
+      "baseStat": {
+        "wAtk": 30.0,
+        "mAtk": 130.0,
+        "atkSpeed": 0.8,
+        "atkRange": 2.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 650.0,
+        "defensive": 5.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 7.0,
+        "atkSpeed": 0.05,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 2.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 10000,
+      "baseStat": {
+        "wAtk": 100.0,
+        "mAtk": 0.0,
+        "atkSpeed": 1.0,
+        "atkRange": 4.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 3000.0,
+        "defensive": 10.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 0.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 0.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 20000,
+      "baseStat": {
+        "wAtk": 150.0,
+        "mAtk": 130.0,
+        "atkSpeed": 0.8,
+        "atkRange": 8.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 1600.0,
+        "defensive": 5.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 0.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 0.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 21000,
+      "baseStat": {
+        "wAtk": 170.0,
+        "mAtk": 80.0,
+        "atkSpeed": 1.2,
+        "atkRange": 10.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 1500.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 0.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 0.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 30000,
+      "baseStat": {
+        "wAtk": 110.0,
+        "mAtk": 90.0,
+        "atkSpeed": 1.0,
+        "atkRange": 10.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 1500.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 0.0,
+        "mAtk": 0.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 0.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    },
+    {
+      "entityID": 31000,
+      "baseStat": {
+        "wAtk": 100.0,
+        "mAtk": 200.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 1900.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      },
+      "bonusStat": {
+        "wAtk": 5.0,
+        "mAtk": 7.0,
+        "atkSpeed": 0.0,
+        "atkRange": 0.0,
+        "criProb": 0.0,
+        "criDamage": 0.0,
+        "maxHp": 12.0,
+        "defensive": 0.0,
+        "coolTimeReduction": 0.0,
+        "physicalLifeSteal": 0.0,
+        "magicalLifeSteal": 0.0,
+        "physicalDamage": 0.0,
+        "magicalDamage": 0.0
+      }
+    }
+  ]
+>>>>>>> e8c52d9063612481c9273d74bbf745c2d3765002
+}

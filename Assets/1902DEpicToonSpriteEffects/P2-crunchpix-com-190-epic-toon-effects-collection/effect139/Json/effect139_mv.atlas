@@ -1,0 +1,41 @@
+
+beatk2.png
+size: 554,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+be/crit-zs (1)
+  rotate: true
+  xy: 431, 2
+  size: 60, 58
+  orig: 163, 150
+  offset: 52, 43
+  index: -1
+be/crit-zs (2)
+  rotate: false
+  xy: 431, 64
+  size: 121, 110
+  orig: 163, 150
+  offset: 22, 18
+  index: -1
+be/crit-zs (3)
+  rotate: true
+  xy: 295, 11
+  size: 163, 134
+  orig: 163, 150
+  offset: 0, 6
+  index: -1
+be/crit-zs (4)
+  rotate: true
+  xy: 151, 15
+  size: 159, 142
+  orig: 163, 150
+  offset: 2, 0
+  index: -1
+be/crit-zs (5)
+  rotate: true
+  xy: 2, 20
+  size: 154, 147
+  orig: 163, 150
+  offset: 0, 3
+  index: -1

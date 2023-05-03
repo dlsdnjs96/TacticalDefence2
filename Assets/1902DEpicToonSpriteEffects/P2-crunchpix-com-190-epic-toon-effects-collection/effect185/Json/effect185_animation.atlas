@@ -1,0 +1,55 @@
+
+end_105003.png
+size: 998,323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001-00045
+  rotate: false
+  xy: 582, 20
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+0001-00047
+  rotate: false
+  xy: 686, 20
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+0001-00049
+  rotate: false
+  xy: 790, 20
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+0001-00051
+  rotate: false
+  xy: 894, 20
+  size: 102, 94
+  orig: 102, 94
+  offset: 0, 0
+  index: -1
+0001-00052
+  rotate: false
+  xy: 582, 116
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+0001-00053
+  rotate: false
+  xy: 789, 116
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 2
+  size: 578, 319
+  orig: 578, 319
+  offset: 0, 0
+  index: -1

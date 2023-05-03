@@ -1,0 +1,230 @@
+
+dizhuantishi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11/segeg0001
+  rotate: false
+  xy: 690, 228
+  size: 71, 55
+  orig: 150, 150
+  offset: 40, 52
+  index: -1
+11/segeg0002
+  rotate: true
+  xy: 746, 285
+  size: 100, 89
+  orig: 150, 150
+  offset: 26, 35
+  index: -1
+11/segeg0003
+  rotate: true
+  xy: 592, 174
+  size: 107, 96
+  orig: 150, 150
+  offset: 24, 34
+  index: -1
+11/segeg0004
+  rotate: true
+  xy: 490, 169
+  size: 111, 100
+  orig: 150, 150
+  offset: 23, 32
+  index: -1
+11/segeg0005
+  rotate: true
+  xy: 228, 3
+  size: 113, 103
+  orig: 150, 150
+  offset: 22, 31
+  index: -1
+11/segeg0006
+  rotate: true
+  xy: 384, 161
+  size: 113, 104
+  orig: 150, 150
+  offset: 22, 30
+  index: -1
+11/segeg0007
+  rotate: true
+  xy: 448, 46
+  size: 113, 104
+  orig: 150, 150
+  offset: 22, 30
+  index: -1
+11/segeg0008
+  rotate: false
+  xy: 402, 282
+  size: 113, 103
+  orig: 150, 150
+  offset: 22, 31
+  index: -1
+11/segeg0009
+  rotate: false
+  xy: 402, 282
+  size: 113, 103
+  orig: 150, 150
+  offset: 22, 31
+  index: -1
+11/segeg0010
+  rotate: false
+  xy: 517, 283
+  size: 113, 102
+  orig: 150, 150
+  offset: 22, 30
+  index: -1
+11/segeg0011
+  rotate: false
+  xy: 632, 285
+  size: 112, 100
+  orig: 150, 150
+  offset: 23, 31
+  index: -1
+11/segeg0012
+  rotate: true
+  xy: 924, 305
+  size: 109, 97
+  orig: 150, 150
+  offset: 25, 31
+  index: -1
+12/rerge0001
+  rotate: false
+  xy: 837, 321
+  size: 63, 66
+  orig: 150, 150
+  offset: 47, 41
+  index: -1
+12/rerge0002
+  rotate: false
+  xy: 924, 416
+  size: 98, 94
+  orig: 150, 150
+  offset: 31, 30
+  index: -1
+12/rerge0003
+  rotate: false
+  xy: 137, 118
+  size: 124, 119
+  orig: 150, 150
+  offset: 18, 20
+  index: -1
+12/rerge0004
+  rotate: false
+  xy: 669, 387
+  size: 127, 123
+  orig: 150, 150
+  offset: 17, 18
+  index: -1
+12/rerge0005
+  rotate: true
+  xy: 798, 389
+  size: 121, 124
+  orig: 150, 150
+  offset: 13, 16
+  index: -1
+12/rerge0006
+  rotate: true
+  xy: 539, 387
+  size: 123, 128
+  orig: 150, 150
+  offset: 12, 14
+  index: -1
+12/rerge0007
+  rotate: true
+  xy: 402, 387
+  size: 123, 135
+  orig: 150, 150
+  offset: 13, 10
+  index: -1
+12/rerge0008
+  rotate: false
+  xy: 2, 85
+  size: 126, 139
+  orig: 150, 150
+  offset: 12, 8
+  index: -1
+12/rerge0009
+  rotate: false
+  xy: 137, 373
+  size: 129, 137
+  orig: 150, 150
+  offset: 10, 7
+  index: -1
+12/rerge0010
+  rotate: false
+  xy: 2, 369
+  size: 133, 141
+  orig: 150, 150
+  offset: 8, 5
+  index: -1
+12/rerge0011
+  rotate: false
+  xy: 2, 226
+  size: 133, 141
+  orig: 150, 150
+  offset: 8, 5
+  index: -1
+12/rerge0012
+  rotate: true
+  xy: 137, 239
+  size: 132, 127
+  orig: 150, 150
+  offset: 8, 6
+  index: -1
+12/rerge0013
+  rotate: false
+  xy: 268, 383
+  size: 132, 127
+  orig: 150, 150
+  offset: 8, 6
+  index: -1
+12/rerge0014
+  rotate: false
+  xy: 266, 161
+  size: 116, 113
+  orig: 150, 150
+  offset: 17, 6
+  index: -1
+12/rerge0015
+  rotate: true
+  xy: 333, 43
+  size: 116, 113
+  orig: 150, 150
+  offset: 17, 6
+  index: -1
+12/rerge0016
+  rotate: false
+  xy: 268, 276
+  size: 121, 105
+  orig: 150, 150
+  offset: 15, 10
+  index: -1
+12/rerge0017
+  rotate: false
+  xy: 268, 276
+  size: 121, 105
+  orig: 150, 150
+  offset: 15, 10
+  index: -1
+12/rerge0018
+  rotate: true
+  xy: 130, 2
+  size: 114, 96
+  orig: 150, 150
+  offset: 14, 19
+  index: -1
+12/rerge0019
+  rotate: true
+  xy: 130, 2
+  size: 114, 96
+  orig: 150, 150
+  offset: 14, 19
+  index: -1
+dfhngftjgftj
+  rotate: false
+  xy: 2, 11
+  size: 72, 72
+  orig: 100, 100
+  offset: 17, 13
+  index: -1

@@ -1,0 +1,20 @@
+
+b19001atk2.png
+size: 432,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+019atk2_1
+  rotate: true
+  xy: 406, 206
+  size: 108, 25
+  orig: 110, 30
+  offset: 2, 3
+  index: -1
+019atk2_2
+  rotate: true
+  xy: 1, 1
+  size: 313, 404
+  orig: 313, 404
+  offset: 0, 0
+  index: -1

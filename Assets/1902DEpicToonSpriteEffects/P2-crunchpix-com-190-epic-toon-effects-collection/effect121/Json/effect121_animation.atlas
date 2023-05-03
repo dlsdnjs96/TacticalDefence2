@@ -1,0 +1,118 @@
+
+em_chuansong.png
+size: 892,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fullskill-r (1)
+  rotate: true
+  xy: 2, 2
+  size: 94, 124
+  orig: 99, 134
+  offset: 0, 4
+  index: -1
+fullskill-r (10)
+  rotate: false
+  xy: 786, 108
+  size: 92, 124
+  orig: 99, 134
+  offset: 4, 7
+  index: -1
+fullskill-r (13)
+  rotate: true
+  xy: 400, 10
+  size: 93, 122
+  orig: 99, 134
+  offset: 6, 8
+  index: -1
+fullskill-r (16)
+  rotate: true
+  xy: 648, 15
+  size: 91, 120
+  orig: 99, 134
+  offset: 6, 8
+  index: -1
+fullskill-r (19)
+  rotate: false
+  xy: 2, 98
+  size: 99, 134
+  orig: 99, 134
+  offset: 0, 0
+  index: -1
+fullskill-r (22)
+  rotate: false
+  xy: 400, 105
+  size: 95, 127
+  orig: 99, 134
+  offset: 3, 4
+  index: -1
+fullskill-r (25)
+  rotate: true
+  xy: 128, 2
+  size: 94, 124
+  orig: 99, 134
+  offset: 0, 4
+  index: -1
+fullskill-r (28)
+  rotate: false
+  xy: 594, 108
+  size: 94, 124
+  orig: 99, 134
+  offset: 0, 2
+  index: -1
+fullskill-r (31)
+  rotate: false
+  xy: 204, 102
+  size: 96, 130
+  orig: 99, 134
+  offset: 1, 2
+  index: -1
+fullskill-r (34)
+  rotate: true
+  xy: 254, 8
+  size: 92, 124
+  orig: 99, 134
+  offset: 4, 7
+  index: -1
+fullskill-r (37)
+  rotate: true
+  xy: 524, 10
+  size: 93, 122
+  orig: 99, 134
+  offset: 6, 8
+  index: -1
+fullskill-r (4)
+  rotate: false
+  xy: 690, 108
+  size: 94, 124
+  orig: 99, 134
+  offset: 0, 2
+  index: -1
+fullskill-r (40)
+  rotate: true
+  xy: 770, 15
+  size: 91, 120
+  orig: 99, 134
+  offset: 6, 8
+  index: -1
+fullskill-r (43)
+  rotate: false
+  xy: 103, 98
+  size: 99, 134
+  orig: 99, 134
+  offset: 0, 0
+  index: -1
+fullskill-r (46)
+  rotate: false
+  xy: 497, 105
+  size: 95, 127
+  orig: 99, 134
+  offset: 3, 4
+  index: -1
+fullskill-r (7)
+  rotate: false
+  xy: 302, 102
+  size: 96, 130
+  orig: 99, 134
+  offset: 1, 2
+  index: -1

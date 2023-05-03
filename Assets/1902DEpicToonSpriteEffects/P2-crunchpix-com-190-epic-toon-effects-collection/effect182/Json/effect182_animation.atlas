@@ -1,0 +1,62 @@
+
+zidan130006.png
+size: 614,603
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_aa_00014
+  rotate: true
+  xy: 391, 3
+  size: 204, 181
+  orig: 215, 197
+  offset: 10, 3
+  index: -1
+_0002_aa_00012
+  rotate: true
+  xy: 2, 188
+  size: 215, 192
+  orig: 215, 197
+  offset: 0, 1
+  index: -1
+_0004_aa_00010
+  rotate: true
+  xy: 196, 2
+  size: 205, 193
+  orig: 215, 197
+  offset: 3, 1
+  index: -1
+_0006_aa_00008
+  rotate: true
+  xy: 425, 397
+  size: 204, 187
+  orig: 215, 197
+  offset: 7, 1
+  index: -1
+_0008_aa_00006
+  rotate: false
+  xy: 2, 405
+  size: 214, 196
+  orig: 215, 197
+  offset: 1, 0
+  index: -1
+_0010_aa_00004
+  rotate: false
+  xy: 218, 404
+  size: 205, 197
+  orig: 215, 197
+  offset: 3, 0
+  index: -1
+_0012_aa_00002
+  rotate: false
+  xy: 196, 209
+  size: 207, 193
+  orig: 215, 197
+  offset: 4, 0
+  index: -1
+_0014_aa_00000
+  rotate: false
+  xy: 405, 212
+  size: 204, 183
+  orig: 215, 197
+  offset: 10, 1
+  index: -1

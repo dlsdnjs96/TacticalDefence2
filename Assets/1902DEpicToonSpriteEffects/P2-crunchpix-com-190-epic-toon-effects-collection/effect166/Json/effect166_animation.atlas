@@ -1,0 +1,132 @@
+
+lord_water_07.png
+size: 989,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0015
+  rotate: true
+  xy: 938, 58
+  size: 108, 48
+  orig: 160, 120
+  offset: 27, 31
+  index: -1
+0017
+  rotate: true
+  xy: 938, 168
+  size: 117, 49
+  orig: 160, 120
+  offset: 22, 31
+  index: -1
+0019
+  rotate: true
+  xy: 938, 287
+  size: 122, 49
+  orig: 160, 120
+  offset: 18, 32
+  index: -1
+0021
+  rotate: true
+  xy: 938, 411
+  size: 124, 49
+  orig: 160, 120
+  offset: 17, 32
+  index: -1
+0023
+  rotate: true
+  xy: 885, 79
+  size: 125, 51
+  orig: 160, 120
+  offset: 16, 31
+  index: -1
+0025
+  rotate: true
+  xy: 664, 77
+  size: 127, 51
+  orig: 160, 120
+  offset: 15, 32
+  index: -1
+0027
+  rotate: true
+  xy: 774, 78
+  size: 126, 52
+  orig: 160, 120
+  offset: 15, 33
+  index: -1
+0029
+  rotate: true
+  xy: 828, 79
+  size: 125, 55
+  orig: 160, 120
+  offset: 16, 29
+  index: -1
+0031
+  rotate: true
+  xy: 717, 78
+  size: 126, 55
+  orig: 160, 120
+  offset: 15, 31
+  index: -1
+0033
+  rotate: false
+  xy: 796, 19
+  size: 124, 57
+  orig: 160, 120
+  offset: 16, 30
+  index: -1
+170005_a_2
+  rotate: false
+  xy: 734, 15
+  size: 60, 61
+  orig: 80, 80
+  offset: 10, 12
+  index: -1
+1903fsk4
+  rotate: true
+  xy: 664, 2
+  size: 73, 68
+  orig: 80, 80
+  offset: 4, 7
+  index: -1
+skill_bbk (2)
+  rotate: true
+  xy: 731, 206
+  size: 329, 179
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (3)
+  rotate: false
+  xy: 2, 4
+  size: 329, 193
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (4)
+  rotate: false
+  xy: 333, 6
+  size: 329, 198
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (5)
+  rotate: true
+  xy: 499, 206
+  size: 329, 230
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (6)
+  rotate: true
+  xy: 257, 206
+  size: 329, 240
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
+skill_bbk (7)
+  rotate: true
+  xy: 2, 199
+  size: 336, 253
+  orig: 366, 298
+  offset: 6, 0
+  index: -1
